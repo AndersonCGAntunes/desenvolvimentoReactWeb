@@ -1,9 +1,9 @@
 import './App.css';
-import Statefull from './Statefull';
+import NameForm from './NameForm';
 
 function App() {
   return (
-    <Statefull />
+    <NameForm />
   );
 }
 
